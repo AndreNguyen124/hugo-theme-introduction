@@ -1240,7 +1240,7 @@ Variable name changes (mostly appending `-color`):
 * Use `rem` and `em` (!)
 * Fix Font Awesome icons in buttons (!)
 * Fix message colors (!)
-* Use {% capture var_name %} to ensure the same display as the code snippet (!)
+<!-- * Use {% capture var_name %} to ensure the same display as the code snippet (!) -->
 
 * Move variables to their own file
 * Remove small tag
