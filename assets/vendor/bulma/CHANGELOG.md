@@ -1457,3 +1457,4 @@ Variable name changes (mostly appending `-color`):
 ### Removed
 
 * **helpers** `.is-inline` and `.is-block`
+{% endcapture %}
